@@ -2,6 +2,13 @@ licenseId,reciprocality
 Apache-1.0,non
 Apache-1.1,non
 Apache-2.0,non
+BSD-1-Clause,non
+BSD-2-Clause,non
+BSD-2-Clause-Paten,non
+BSD-3-Clause,non
+BSD-3-Clause-Clear ,non
+BSD-3-Clause-LBNL ,non
+BSD-4-Clause ,non
 MIT,non
 MIT-0,non
 CC-BY-1.0,non
@@ -35,3 +42,8 @@ GPL-2.0-only,strong
 GPL-2.0-or-later,strong
 GPL-3.0-only,strong
 GPL-3.0-or-later,strong
+SHL-0.5,non
+SHL-0.51,non
+SHL-2.0,non
+SHL-2.1,non
+TAPR-OHL-1.0,strong
